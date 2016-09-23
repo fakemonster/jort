@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/clarkenciel/jort#readme",
   "devDependencies": {
-    "electron-prebuilt": "^1.4.1"
+    "chai": "^3.5.0",
+    "electron-prebuilt": "^1.4.1",
+    "mocha": "^3.0.2"
   }
 }
