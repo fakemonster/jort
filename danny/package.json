@@ -1,0 +1,27 @@
+{
+  "name": "jort-danny",
+  "version": "1.0.0",
+  "description": "danny clarke implementation of jort client",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarkenciel/jort.git"
+  },
+  "keywords": [
+    "chat",
+    "humor",
+    "fun"
+  ],
+  "author": "danny clarke",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/clarkenciel/jort/issues"
+  },
+  "homepage": "https://github.com/clarkenciel/jort#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.1"
+  }
+}
